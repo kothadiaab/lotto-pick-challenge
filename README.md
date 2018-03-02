@@ -34,7 +34,7 @@ Used iterative functions to make it efficient and use of Set allows iteration th
 ### Prerequisites
 
 Install Node https://nodejs.org/en/download/
-Verify:
+
 ```
 node -v
 ```
@@ -42,5 +42,5 @@ node -v
 ### Run Application
 
 ```
-node index.js
+node find-lotto-picks.js
 ```
